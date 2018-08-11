@@ -1,0 +1,11 @@
+language: FRENCH
+number of training data: 8925
+number of test data: 5
+
+data: pouvior  accuracy: 0.4872873684371224
+data: argent  accuracy: 0.4872873684371224
+data: ville  accuracy: 0.5127126315791083
+data: année  accuracy: 0.5127126315791083
+data: dire  accuracy: 0.4872873684371224
+
+average accuracy: 0.4974574736939167
